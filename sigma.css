@@ -1,0 +1,15 @@
+.menu-container { 
+    width: 100%;
+    background-color: black;
+    border-bottom: 3px solid grey;
+    border-radius: 20px;
+}
+body{
+    background-color: aliceblue;
+}
+
+.menu-item {
+    color: aliceblue;
+    display: inline-block;
+    margin-left: 15px;
+}
